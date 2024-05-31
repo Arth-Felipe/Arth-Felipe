@@ -28,13 +28,17 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+<br>
+
 ## :rocket: About me
 <p align="left"> 
   Hello! My name is Arthur Bravo and I am an undergraduate student in Computer Science at UFSCar, with experience in training Machine Learning models such as KNN, SVM, Naive Bayes, Logistic Regression, Artificial Neural Networks and others, as well as advanced skills in data analysis, ETL processes and manipulation of massive databases with PySpark (Databricks) and Neo4j.</p>
  <p>
 I look for opportunities in Technology with a focus on Artificial Intelligence, Machine Learning and Data Science/Analysis. Committed to contributing to the advancement of technology and innovation, my solid background combined with analytical skills, problem solving and high adaptability enable me to collaborate on complex and multidisciplinary projects.
 </p>
-  
+
+<br>
+
 # :open_book: **Data Skills**
 
 ## :robot: **Data Science**
