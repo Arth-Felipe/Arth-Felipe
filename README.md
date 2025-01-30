@@ -5,7 +5,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hello, there!, I am
+        <samp>&gt; Hello, there! I am
                 <b><a target="_blank" href="" style="color: #7F3FBF">Arthur</a></b>
         </samp>
 </h3>
